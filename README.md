@@ -1,4 +1,4 @@
-# About this repo
+# Locust-skeleton
 
 Take notes for the powerful load test tool- [Lucost](https://github.com/locustio/locust)
 
